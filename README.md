@@ -1,14 +1,18 @@
 # Retours d’eXpériences pédagogiques : Soyons critiques face à l’usage des LLM
 
-La présentation est accessible [ici](2025_IUT_JourneePedagogique_IA_Rex_LLM.pdf).  
+La présentation originale en français est accessible [ici](2025_IUT_JourneePedagogique_IA_Rex_LLM.pdf).
 
-Elle a été réalisée dans le cadre des **3ᵉ Demi-Journées Pédagogiques sur l’IA générative** destinées aux enseignants de l’**[IUT du Limousin](https://www.iut.unilim.fr/)**, le **22 septembre 2025**.  
+*The first part of this presentation, entitled “Let’s Take a Critical Look at the Use of LLMs”, is also available in English [here](2025_english_part1_CriticalLookAtTheUseOfLLMs.pdf).*
+
+---
+
+Cette présentation a été réalisée dans le cadre des **3ᵉ Demi-Journées Pédagogiques sur l’IA générative** destinées aux enseignants de l’**[IUT du Limousin](https://www.iut.unilim.fr/)**, le **22 septembre 2025**.  
 
 Elle vise à  **mieux appréhender le fonctionnement des modèles de langage (LLM)** et à **partager des retours d’expériences pédagogiques** sur leur usage avec les étudiants du BUT Informatique.
 
 ---
 
-##  Partie 1 — Comprendre l’IA
+## Partie 1 — Comprendre l’IA
 
 Cette première partie propose des **prompts simples et réutilisables** par tout enseignant.  
 Les réponses obtenues permettent :
